@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"index",
+				"Help: Indexing Status"
+			],
+			[
+				"syntax scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/clint/Documents/gh/sublime-smart-enter"
+	],
+	"file_history":
+	[
+		"/home/clint/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/clint/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/clint/.config/sublime-text/Packages/User/SmartEnter.py",
+		"/home/clint/Documents/test.txt",
+		"/var/www/Greenpointers/web/app/themes/newspack-theme/functions.php",
+		"/var/www/Greenpointers/web/app/themes/newspack-greenpointers/functions.php",
+		"/var/www/Greenpointers/web/app/themes/newspack-greenpointers/footer.php",
+		"/var/www/Greenpointers/web/wp/wp-includes/general-template.php",
+		"/var/www/Greenpointers/composer.json",
+		"/var/www/Greenpointers/.env",
+		"/var/www/Greenpointers/web/wp-config.php",
+		"/var/www/Greenpointers/web/index.php",
+		"/var/www/Greenpointers/web/app/mu-plugins/wp-migrate-db-pro-compatibility.php",
+		"/var/www/Greenpointers/.gitignore",
+		"/var/www/Greenpointers/web/app/themes/newspack-greenpointers/sass/style.scss",
+		"/var/www/Greenpointers/wp-cli.yml",
+		"/var/www/Greenpointers/phpcs.xml",
+		"/var/www/Greenpointers/config/application.php",
+		"/var/www/Greenpointers/config/environments/staging.php",
+		"/var/www/Greenpointers/config/environments/production.php",
+		"/var/www/Greenpointers/config/environments/development.php",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/var/www/Greenpointers/web/app/debug.log",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/sites-available/greenpointers.conf",
+		"/home/clint/Documents/gh/Greenpointers/config/environments/production.php",
+		"/home/clint/Documents/gh/Greenpointers/config/environments/staging.php",
+		"/home/clint/Documents/gh/Greenpointers/config/environments/development.php",
+		"/home/clint/Documents/gh/Greenpointers/.env",
+		"/home/clint/Documents/gh/Greenpointers/config/application.php",
+		"/home/clint/Documents/gh/Greenpointers/web/app/mu-plugins/bedrock-autoloader.php",
+		"/home/clint/Documents/gh/Greenpointers/.gitignore",
+		"/home/clint/Documents/gh/Greenpointers/composer.json",
+		"/home/clint/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime-smart-enter.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"web/app/themes/newspack-theme/functions.php"
+			],
+			[
+				"general",
+				"web/wp/wp-includes/general-template.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 518.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
