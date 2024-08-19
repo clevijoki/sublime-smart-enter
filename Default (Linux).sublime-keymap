@@ -1,3 +1,7 @@
 [
-	{"keys": ["enter"], "command": "smart_enter"}
+	{"keys": ["enter"], "command": "smart_enter", "context":
+		[
+			{ "key":"read_only", "operator":"equal", "operand":false }
+		]
+	}
 ]
